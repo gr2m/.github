@@ -1,0 +1,9 @@
+- terms:
+  - 🚧
+  - WIP
+  locations: title
+- terms:
+  - WIP
+  - fixup!
+  - squash!
+  locations: commit_subject
